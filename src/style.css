@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .favorite-btn {
     background: none;
     border: none;
@@ -22,4 +23,30 @@ select {
 .secondary{
     background-color: #45ad2b;
     border-color: rgba(0, 0, 0, 0.176);
+=======
+.favorite-btn {
+    background: none;
+    border: none;
+    font-size: 1.5rem;
+    cursor: pointer;
+    color: gold;
+    padding: 0;
+}
+.favorite-btn.unfavorited {
+    color: gray;
+}
+select {
+    background-color: #45ad2b;
+    border-color: rgba(0, 0, 0, 0.176);
+}
+
+.primary{
+    background-color: #50e02d;
+    border-color: rgba(0, 0, 0, 0.176);
+}
+
+.secondary{
+    background-color: #45ad2b;
+    border-color: rgba(0, 0, 0, 0.176);
+>>>>>>> 075b6523b34da6bb4fea87ef1a01064f7c5e4711
 }

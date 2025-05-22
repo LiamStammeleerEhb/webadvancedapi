@@ -37,3 +37,11 @@ git clone https://github.com/LiamStammeleerEhb/webadvancedapi
 cd projectnaam
 npm install
 npm run dev
+```
+
+## Screenshots
+![image](https://github.com/user-attachments/assets/f4c10002-a5d4-41c7-9b12-5356d062f080)
+
+## Gebruikte bronnen
+- [The Rick and Morty API](https://rickandmortyapi.com/)
+- [Bootstrap](https://getbootstrap.com/)

@@ -36,7 +36,7 @@ Deze applicatie toont de Rick en Morty karakters tot en met seizoen 5.
 git clone https://github.com/LiamStammeleerEhb/webadvancedapi
 cd webadvancedapi
 npm install
-npm run dev
+npm run preview
 ```
 
 ## Screenshots

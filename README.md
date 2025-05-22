@@ -45,3 +45,4 @@ npm run dev
 ## Gebruikte bronnen
 - [The Rick and Morty API](https://rickandmortyapi.com/)
 - [Bootstrap](https://getbootstrap.com/)
+- [W3 schools](https://www.w3schools.com/js/default.asp)

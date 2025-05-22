@@ -45,4 +45,10 @@ npm run dev
 ## Gebruikte bronnen
 - [The Rick and Morty API](https://rickandmortyapi.com/)
 - [Bootstrap](https://getbootstrap.com/)
-- [W3 schools](https://www.w3schools.com/js/default.asp)
+- [W3schools](https://www.w3schools.com/js/default.asp)
+
+## ChatGPT chats
+[Chat 1: Read me](https://chatgpt.com/share/682f14ca-0c08-8002-b38c-682ed1b807fa)
+[Chat 2: Installing Vite](https://chatgpt.com/share/682f156f-6cd0-8002-a658-00c9022fac9e)
+[Chat 3: API gebruiken met Javascript](https://chatgpt.com/share/682f15b6-dd14-8002-bcc8-66064636789c)
+Al de rest van mijn code is gemaakt met de ondersteuning van W3schools en andere documentaties
